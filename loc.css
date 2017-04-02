@@ -3,6 +3,7 @@
   margin: 0 auto;
   padding: .5em;
   font-size: 1.1em;
+  line-height: 1.5em;
   font-family: Arial, Helvetica, sans-serif;
   text-align: left;
   max-width: 1200px;
@@ -13,12 +14,10 @@ amid, title, amcolname, resp, name, document_id, publicationstmt, editorialdecl,
 }
 
 p {
-  line-height: 1.5em;
 }
 
 hi  {
   font-style: italic;
-  line-height: 1.5em;
   background-color: #DDF6F5;
   margin-left: -25px;
 }
